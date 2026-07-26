@@ -152,10 +152,17 @@ Superstore-Sales-Analysis/
 ## Dashboard Preview
 
 ```
-Image1.png
-Image2.png
-Image3.png
-```
+### Dashboard Page 1
+
+![Dashboard Page 1](Image1.png)
+
+### Dashboard Page 2
+
+![Dashboard Page 2](Image2.png)
+
+### Dashboard Page 3
+
+![Dashboard Page 3](Image3.png)
 
 ---
 
