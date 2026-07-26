@@ -151,14 +151,10 @@ Superstore-Sales-Analysis/
 
 ## Dashboard Preview
 
-*(Add dashboard screenshots here)*
-
-Example:
-
 ```
-Images/dashboard_page1.png
-Images/dashboard_page2.png
-Images/dashboard_page3.png
+Image1.png
+Image2.png
+Image3.png
 ```
 
 ---
