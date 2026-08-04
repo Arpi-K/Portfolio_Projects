@@ -149,12 +149,12 @@ sales_analysis_project/
 ├── sales_dashboard.pdf
 ├── superstore.csv
 └── superstore_analysis.ipynb
+```
 
 ---
 
 ## Dashboard Preview
 
-```
 ### Dashboard Page 1
 
 ![Dashboard Page 1](Images/Image1.png)
