@@ -143,6 +143,7 @@ sales_analysis_project/
 │   ├── Image2.png
 │   └── Image3.png
 ├── README.md
+├── Sales_Analysis_Report.pdf
 ├── sales_analysis.sql
 ├── sales_analysis_dashboard.pbix
 ├── sales_dashboard.pdf
