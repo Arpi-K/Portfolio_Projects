@@ -154,11 +154,11 @@ Zepto-inventory-sql-project/
 │
 ├── Image.png
 ├── README.md
+├── Zepto_analysis_report.pdf
 ├── zepto_analysis.sql
-├── zepto_visual.pbix
 ├── zepto_dashboard.pdf
 ├── zepto_v2.csv
-├── Zepto_analysis_report.pdf
+├── zepto_visual.pbix
 ```
 
 ---
