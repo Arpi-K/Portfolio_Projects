@@ -136,16 +136,18 @@ The dashboard includes:
 ## Repository Structure
 
 ```
-Superstore-Sales-Analysis/
+sales_analysis_project/
 │
-├── Dataset/
-├── Python/
-├── SQL/
-├── PowerBI/
-├── PDF (Dashboard Images)/
-├── Report/
-└── README.md
-```
+├── Images/
+│   ├── Image1.png
+│   ├── Image2.png
+│   └── Image3.png
+├── README.md
+├── sales_analysis.sql
+├── sales_analysis_dashboard.pbix
+├── sales_dashboard.pdf
+├── superstore.csv
+└── superstore_analysis.ipynb
 
 ---
 
@@ -154,15 +156,15 @@ Superstore-Sales-Analysis/
 ```
 ### Dashboard Page 1
 
-![Dashboard Page 1](Image1.png)
+![Dashboard Page 1](Images/Image1.png)
 
 ### Dashboard Page 2
 
-![Dashboard Page 2](Image2.png)
+![Dashboard Page 2](Images/Image2.png)
 
 ### Dashboard Page 3
 
-![Dashboard Page 3](Image3.png)
+![Dashboard Page 3](Images/Image3.png)
 
 ---
 
