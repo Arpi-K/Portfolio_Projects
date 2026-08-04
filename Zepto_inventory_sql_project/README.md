@@ -150,7 +150,7 @@ The dashboard includes:
 ## Repository Structure
 
 ```
-Zepto-inventory-sql-project/
+Zepto_inventory_sql_project/
 │
 ├── Image.png
 ├── README.md
@@ -161,15 +161,14 @@ Zepto-inventory-sql-project/
 ├── zepto_visual.pbix
 ```
 
----
 
 ## Dashboard Preview
 
-```markdown
+
 ### Zepto Product Analytics Dashboard
 
-![Dashboard](Image.png)
-```
+![Zepto Dashboard](Image.png)
+
 
 ---
 
